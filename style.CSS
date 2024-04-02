@@ -1,0 +1,54 @@
+body{
+	font-family: sans-serif;
+	background-color: white-gray;
+	margin: 0;
+	padding: 0; 
+}
+
+.container{
+	max-width: 250px;
+	margin: 20px auto;
+	background-color: rgba(255, 0, 0, 0.4);
+	padding: 20px;
+	border-radius: 5px
+	box-shadow:0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile-picture {
+    max-width: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+h1, h2, h3 {
+    color: #333;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+p {
+    margin: 10px 0;
+}
+
+.section-title {
+    margin-top: 20px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+}
+.skills-list {
+    margin-left: 20px;
+}
+
+.project-item {
+    margin-bottom: 20px;
+}
+
+.project-item h3 {
+    margin-bottom: 5px;
+}
+
+.project-item p {
+    margin: 5px 0;
+}
